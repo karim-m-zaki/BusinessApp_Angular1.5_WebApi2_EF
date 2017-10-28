@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <meta charset="utf-8" />
+    <title>BusinessApp_AsgaTech</title><!--style sheets-->
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="Content/ui-grid.min.css" rel="stylesheet" />
+
+    <!--Library Scripts-->
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-resource.min.js"></script>
+    <script src="Scripts/angular-route.min.js"></script>
+    <script src="Scripts/ui-grid.min.js"></script>
+
+    <!--Application Scripts-->
+    <script src="app/app.js"></script>
+    <script src="commonService/commonService.js"></script>
+    <script src="app/homePage/home-page.component.js"></script>
+    <script src="app/userPage/user-page.component.js"></script>
+    <script src="app/rolePage/role-page.component.js"></script>
+    <script src="app/homePage/homeService.js"></script>
+    <script src="app/rolePage/roleService.js"></script>
+</head>
+<body ng-cloak>
+    <div class="">
+        <ng-view></ng-view>
+    </div>
+</body>
+</html>

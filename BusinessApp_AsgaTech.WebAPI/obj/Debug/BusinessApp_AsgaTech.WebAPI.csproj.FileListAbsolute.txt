@@ -1,0 +1,224 @@
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\ApplicationInsights.config
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csc.exe
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csc.exe.config
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csc.rsp
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csi.exe
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csi.rsp
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.AppContext.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\vbc.exe
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\vbc.exe.config
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\vbc.rsp
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.WebAPI.dll.config
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.WebAPI.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.WebAPI.pdb
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Antlr3.Runtime.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.Models.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\EntityFramework.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.Web.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Newtonsoft.Json.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Cors.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Helpers.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.Cors.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Mvc.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Optimization.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Razor.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\WebGrease.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.Models.pdb
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\EntityFramework.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.Cors.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Newtonsoft.Json.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Helpers.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Mvc.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Optimization.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Razor.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Antlr3.Runtime.pdb
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.Web.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.csprojResolveAssemblyReference.cache
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.initial.resources
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.roleSelected.resources
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.csproj.GenerateResource.Cache
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.csproj.CoreCompileInputs.cache
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.pdb
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.updatedUserRoles.resources
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.newModel.resources
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.Integration.Mvc.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.Integration.WebApi.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.Mvc.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.Integration.Mvc.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.Integration.WebApi.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.pdb
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.Mvc.pdb
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.Mvc.xml
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\de\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\es\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\fr\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\it\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\ko\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\nl\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\pl\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\pt\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\ru\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\sv\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\tr\FluentValidation.resources.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.userRoleUpdate.resources
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\ApplicationInsights.config
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csc.exe
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csc.exe.config
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csc.rsp
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csi.exe
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\csi.rsp
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.AppContext.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\vbc.exe
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\vbc.exe.config
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\vbc.rsp
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.WebAPI.dll.config
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.WebAPI.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.WebAPI.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Antlr3.Runtime.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.Integration.Mvc.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.Integration.WebApi.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.Models.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\EntityFramework.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\EntityFramework.SqlServer.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.Mvc.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.Web.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Newtonsoft.Json.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Net.Http.Formatting.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Cors.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Helpers.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.Cors.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.WebHost.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Mvc.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Optimization.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Razor.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\WebGrease.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\BusinessApp_AsgaTech.Models.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.Integration.Mvc.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Autofac.Integration.WebApi.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\EntityFramework.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\EntityFramework.SqlServer.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.Mvc.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\FluentValidation.Mvc.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.Cors.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Newtonsoft.Json.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Net.Http.Formatting.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Helpers.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Mvc.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Optimization.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.Razor.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Antlr3.Runtime.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\Microsoft.AI.Web.xml
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\de\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\es\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\fr\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\it\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\ko\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\nl\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\pl\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\pt\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\ru\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\sv\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\bin\tr\FluentValidation.resources.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.csprojResolveAssemblyReference.cache
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.initial.resources
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.roleSelected.resources
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.updatedUserRoles.resources
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.newModel.resources
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.userRoleUpdate.resources
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.csproj.GenerateResource.Cache
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.WebAPI\obj\Debug\BusinessApp_AsgaTech.WebAPI.Migrations.annotation.resources

@@ -1,0 +1,114 @@
+﻿<div>
+    <div id="alertMessage" class="modal fade" role="dialog">
+        <div class="modal-dialog" style="margin-top: 15%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Warning</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-success">
+                        Are you Sure you Want to Delete?<span style="color:#4399E2;font-weight:bold;text-decoration:underline"></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-danger" ng-click="vm.delete()" data-dismiss="modal">Delete</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="endMessage" class="modal fade" role="dialog">
+        <div class="modal-dialog" style="margin-top: 15%;">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Result Message</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-success" ng-show="vm.messageSuc">
+                        {{vm.SuccessMess}}  <span style="color:#4399E2;font-weight:bold;text-decoration:underline"></span>
+                    </div>
+
+                    <div class="alert alert-danger" ng-show="vm.messageErr">
+                        {{vm.ErrMassge}}
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="modalForDetail" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header" style="background-color:blueviolet">
+                    <h4 class="modal-title" style="color:white">
+                        <strong>Users</strong>
+                    </h4>
+                </div>
+                <div class="modal-body">
+                    <div class="masterData">
+                        <form name="add_item4">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="row" ng-class="{'has-error':employeeData.firstName.$invalid}">
+                                        <div class="col-lg-3">
+                                            <label>Name</label>
+                                        </div>
+                                        <div class="col-md-5">
+                                            <input type="text" id="username" name="username" placeholder="User Name" ng-model="vm.userName" class=" form-control" required>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="row ">
+                                        <div class="col-lg-3">
+                                            <label>Email</label>
+                                        </div>
+                                        <div class="col-md-5">
+                                            <input type="text" placeholder="Email" ng-model="vm.email" class=" form-control" required>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default btn-embossed" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-info btn-embossed" ng-show="vm.showUpdate" ng-click="vm.edit(vm)" data-dismiss="modal">Update</button>
+                    <button type="button" class="btn btn-primary btn-embossed" ng-show="vm.showInsert" ng-click="vm.submit(vm)" data-dismiss="modal">Submit</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <nav class="navbar navbar-inverse" style="background-color: blueviolet;">
+        <div class="navbar-brand" style="font-family: Verdana; font-size: 30px;color:white">
+            Business_Application AsgaTech
+        </div>
+    </nav>
+    <form role="form" class="form-horizontal container">
+        <div class="row">
+            <div class="col-md-2">
+                <button ng-click="vm.goToCreate()" class="btn btn-primary"><span>Create New User</span></button>
+            </div>
+        </div>
+        <br />
+        <div>
+            <section fullscreen="isFullscreen03">
+                <div ui-grid="usersGrid" ui-grid-move-columns ui-grid-resizecolumns ui-grid-pinning ui-grid-edit ui-grid-row-edit ui-grid-selection ui-grid-cellnav></div>
+            </section>
+        </div>
+    </form>
+</div>

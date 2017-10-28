@@ -1,0 +1,117 @@
+﻿<style>
+    form_main {
+        width: 100%;
+    }
+
+    .form_main h4 {
+        font-family: roboto;
+        font-size: 20px;
+        font-weight: 300;
+        margin-bottom: 15px;
+        margin-top: 20px;
+        text-transform: uppercase;
+    }
+
+    .heading {
+        border-bottom: 1px solid #fcab0e;
+        padding-bottom: 9px;
+        position: relative;
+    }
+
+        .heading span {
+            background: #9e6600 none repeat scroll 0 0;
+            bottom: -2px;
+            height: 3px;
+            left: 0;
+            position: absolute;
+            width: 75px;
+        }
+
+    .form {
+        border-radius: 7px;
+        padding: 6px;
+    }
+
+    .txt[type="text"] {
+        border: 1px solid #ccc;
+        margin: 10px 0;
+        padding: 10px 0 10px 5px;
+        width: 100%;
+    }
+
+    .txt_3[type="text"] {
+        margin: 10px 0 0;
+        padding: 10px 0 10px 5px;
+        width: 100%;
+    }
+
+    .txt2[type="submit"] {
+        background: #242424 none repeat scroll 0 0;
+        border: 1px solid #4f5c04;
+        border-radius: 25px;
+        color: #fff;
+        font-size: 16px;
+        font-style: normal;
+        line-height: 35px;
+        margin: 10px 0;
+        padding: 0;
+        text-transform: uppercase;
+        width: 30%;
+    }
+
+    .txt2:hover {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        color: #5793ef;
+        transition: all 0.5s ease 0s;
+    }
+</style>
+<div id="endMessage" class="modal fade" role="dialog">
+    <div class="modal-dialog" style="margin-top: 15%;">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Result Message</h4>
+            </div>
+            <div class="modal-body">
+                <div class="alert alert-success" ng-show="vm.messageSuc">
+                    {{vm.SuccessMess}}  <span style="color:#4399E2;font-weight:bold;text-decoration:underline"></span>
+                </div>
+
+                <div class="alert alert-danger" ng-show="vm.messageErr">
+                    {{vm.ErrMassge}}
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<nav class="navbar navbar-inverse" style="background-color: blueviolet;">
+    <div class="navbar-brand" style="font-family: Verdana; font-size: 30px;color:white">
+        Business_Application AsgaTech
+    </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form_main">
+                <h4 class="heading"><strong>Create </strong> User <span></span></h4>
+                <div class="form">
+                    <form  name="myForm">
+                        <input type="text" placeholder="Please input your Name" ng-model="vm.userName" value="" name="name" class="form-control" required>
+                        <br />
+                        <input type="text" placeholder="Please input your Email" ng-model="vm.email" value="" name="email" class="form-control" required>
+                        <br />
+                        <input type="password" placeholder="Please input your password" ng-model="vm.passWord" value="" name="password" class="form-control" required>
+                        
+                        <input type="submit" value="submit" ng-disabled="myForm.$invalid" name="submit" ng-click="vm.submit(vm)" class="txt2">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>

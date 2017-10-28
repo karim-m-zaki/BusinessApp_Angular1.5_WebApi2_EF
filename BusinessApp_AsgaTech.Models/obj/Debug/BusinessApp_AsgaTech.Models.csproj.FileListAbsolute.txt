@@ -1,0 +1,11 @@
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\bin\Debug\BusinessApp_AsgaTech.Models.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\bin\Debug\BusinessApp_AsgaTech.Models.pdb
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\obj\Debug\BusinessApp_AsgaTech.Models.csprojResolveAssemblyReference.cache
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\obj\Debug\BusinessApp_AsgaTech.Models.csproj.CoreCompileInputs.cache
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\obj\Debug\BusinessApp_AsgaTech.Models.dll
+D:\CS Relevant\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\obj\Debug\BusinessApp_AsgaTech.Models.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\bin\Debug\BusinessApp_AsgaTech.Models.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\bin\Debug\BusinessApp_AsgaTech.Models.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\obj\Debug\BusinessApp_AsgaTech.Models.dll
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\obj\Debug\BusinessApp_AsgaTech.Models.pdb
+E:\Learning\MyProjects\BusinessApp_AsgaTech\BusinessApp_AsgaTech.Models\obj\Debug\BusinessApp_AsgaTech.Models.csprojResolveAssemblyReference.cache
